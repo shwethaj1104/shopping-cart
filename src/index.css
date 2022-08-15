@@ -5,7 +5,8 @@ Variables
 */
 
 :root {
-  --clr-primary: #2680c0;
+  /* --clr-primary: #2680c0;#1c9f0cd1 */
+  --clr-primary:#b56576;
   --clr-primary-dark: hsl(205, 100%, 21%);
   --clr-primary-light: hsl(205, 84%, 74%);
   --clr-grey-1: #102a42;
