@@ -2,7 +2,7 @@
 
 Application developed on React.js.
 
-Checkout application at https://shopping-cart-ruby-delta.vercel.app/
+Checkout application at : https://shopping-cart-ruby-delta.vercel.app/
 
 User can alter or clear cart using provided controls on application.
 
