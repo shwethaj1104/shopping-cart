@@ -1,4 +1,4 @@
-# Shopping-Cart
+# Shopping Cart
 
 Application developed on React.js.
 
